@@ -1,9 +1,3 @@
-# Daniel Martinez
-# CS 231
-# Assignment 1
-# Prof: Sahar Mosleh
-# Due Date: 10/10/2018
-
 # Assignment 1 Description
 # ======================
 # Write a program in MIPS assembly language that asks the users to enter a value for array size
